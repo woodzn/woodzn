@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @woodzn
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in making game
+- 🌱 I’m currently learning C# and Python
+- 💞️ I’m looking to collaborate on ？
 - 📫 How to reach me wood_zn@163.com
 
 <!---
